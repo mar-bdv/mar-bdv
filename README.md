@@ -1,6 +1,6 @@
 # Hi, I'm Mariam
 ## I'm frontend developer
-<img src="https://user-images.githubusercontent.com/107851909/223807108-295f0257-b88d-4f6b-94ef-ab50ac7488ee.png" alt="code" width="200"/>
+
 
 ### My skills:
 + HTML / CSS / SASS / SCSS
