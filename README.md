@@ -2,11 +2,11 @@
 
 _**I'm an aspiring front-end developer, passionate about learning and building interactive web applications!**_
 
-### ✨ ABOUT ME ✨
-- Actively learning and working on personal projects.
-- Looking for opportunities to grow as a developer.
-- Currently open to work and exploring job opportunities in front-end development.
-- I enjoy diving into **UI/UX design** and experimenting with new web technologies.
+## ✨ ABOUT ME ✨
+★ **Actively learning and working on personal projects.** <br>
+★ **Looking for opportunities to grow as a developer.** <br>
+★ **Currently open to work and exploring job opportunities in front-end development.** <br>
+★ **I enjoy diving into _UI/UX design_ and experimenting with new web technologies.** <br>
 
 ---
 
@@ -42,7 +42,7 @@ _**I'm an aspiring front-end developer, passionate about learning and building i
 
 ---
 
-### ✍️ Random Dev Quote ✍️
+### ★ Random Dev Quote ★
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
