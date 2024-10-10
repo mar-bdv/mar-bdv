@@ -1,6 +1,6 @@
 # Hi, I'm Mariam! :)
 
-**I'm an aspiring front-end developer, passionate about learning and building interactive web applications.**
+_**I'm an aspiring front-end developer, passionate about learning and building interactive web applications!**_
 
 ### ✨ ABOUT ME ✨
 - Actively learning and working on personal projects.
