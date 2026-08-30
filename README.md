@@ -1,5 +1,3 @@
-# Hi, I'm Mariam! :)
-
 _**I'm an aspiring front-end developer, passionate about learning and building interactive web applications!**_
 
 ## ✨ ABOUT ME ✨
